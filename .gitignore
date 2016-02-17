@@ -34,3 +34,6 @@ node_modules
 
 # Webtesting Screen Shots
 testResults
+
+# Main Config File
+config.js

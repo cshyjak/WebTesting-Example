@@ -1,0 +1,7 @@
+module.exports = function () {
+    return {
+        kmcusername: "[YOUR USERNAME]",
+        kmcpassword: "[YOUR PASSWORD]",
+        baseurl: "[DESIRED BASE URL]"
+    };
+} ();
